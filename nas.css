@@ -1,6 +1,7 @@
 body {
 
   text-align: center;
+  background-image: url("galax.jpg");
 }
 
 h1	{
@@ -21,4 +22,16 @@ h4 {
 
 button {
   color: black;
+}
+
+p {
+	color: white;
+}
+
+label {
+	color: white;
+}
+
+input {
+	color: yellow;
 }
